@@ -1,0 +1,2 @@
+* Real World OCaml
+This repository is for source code done following [[https://dev.realworldocaml.org][this book]].
